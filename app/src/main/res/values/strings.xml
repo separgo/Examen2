@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">EXAM2</string>
+    <string name="title_name">Titulo</string>
+    <string name="year_date">Año</string>
+    <string name="URL_text">URL</string>
+    <string name="Add_btn">Añadir</string>
+    <string name="create_title_isempty">El campo \"Titulo\" es obligatorio</string>
+    <string name="create_url_isempty">El campo \"URL\" es obligatorio</string>
+    <string name="create_year_isempty">El campo \"Año\" es obligatorio</string>
+    <string name="successfull">Añadido</string>
 </resources>
